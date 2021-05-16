@@ -78,7 +78,10 @@ We used the <a href= 'https://automlsamplenotebookdata.blob.core.windows.net/aut
 
   </ul>
 </p>
+
 ### Screen Recording
+
+<p> Below is the link to the video recording</p>
 
 [![Azure ML Project](http://img.youtube.com/vi/KymP0PYUr7I/0.jpg)](https://www.youtube.com/watch?v=KymP0PYUr7I "Azure ML project")
 
