@@ -74,8 +74,8 @@ We used the <a href= 'https://automlsamplenotebookdata.blob.core.windows.net/aut
 
 <p> 
   <ul>
-    <li> creating a front end web page to enhance interaction </li>
-
+    <li> Tuning the model parameters to enhance performance. Hyperparameter tuning help to get the best parameters for our model. In future maybe to expand the search space </li>
+    <li> We could also add some additional steps to tthe pipelinr like feature engineering before running the  AutoML step. This would have helped in getting better results<\li>
   </ul>
 </p>
 
