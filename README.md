@@ -37,7 +37,7 @@ We used the <a href= 'https://automlsamplenotebookdata.blob.core.windows.net/aut
   <p> We deployed the best model as captured below :
     <ul>
       <li> Enable logs </li>
-      <li> Application insights enabled </li>
+      <li> We choose the best model for deployment and enable "Authentication" while deploying the model using Azure Container Instance (ACI). The executed code in logs.py enables Application Insights. "Application Insights enabled" is disabled before executing logs.py. </li>
       <li> Use swagger to document anf consume the  RESTful web services </li>
     </ul>
   </p>
